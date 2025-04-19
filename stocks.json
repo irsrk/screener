@@ -1,0 +1,72 @@
+{
+    "stageBreakout": [
+        {
+            "symbol": "RELIANCE",
+            "name": "Reliance Industries Ltd.",
+            "price": 2891.45,
+            "change": 1.85,
+            "volume": 5283460,
+            "sector": "Energy",
+            "dayHigh": 2905.90,
+            "dayLow": 2875.50
+        },
+        {
+            "symbol": "TCS",
+            "name": "Tata Consultancy Services Ltd.",
+            "price": 3947.65,
+            "change": 2.15,
+            "volume": 1214580,
+            "sector": "Technology",
+            "dayHigh": 3960.50,
+            "dayLow": 3925.25
+        }
+    ],
+    "volumeBreakout": [
+        {
+            "symbol": "TATAMOTORS",
+            "name": "Tata Motors Ltd.",
+            "price": 928.45,
+            "change": 3.25,
+            "volume": 12156700,
+            "sector": "Automobile",
+            "dayHigh": 935.45,
+            "dayLow": 918.65
+        }
+    ],
+    "topGainers": [
+        {
+            "symbol": "HDFCBANK",
+            "name": "HDFC Bank Ltd.",
+            "price": 1473.75,
+            "change": 2.85,
+            "volume": 3283460,
+            "sector": "Banking",
+            "dayHigh": 1484.90,
+            "dayLow": 1461.96
+        }
+    ],
+    "topLosers": [
+        {
+            "symbol": "INFY",
+            "name": "Infosys Ltd.",
+            "price": 1447.60,
+            "change": -1.85,
+            "volume": 2823450,
+            "sector": "Technology",
+            "dayHigh": 1468.95,
+            "dayLow": 1446.72
+        }
+    ],
+    "momentumStocks": [
+        {
+            "symbol": "BAJFINANCE",
+            "name": "Bajaj Finance Ltd.",
+            "price": 6890.25,
+            "change": 2.45,
+            "volume": 845600,
+            "sector": "Financial Services",
+            "dayHigh": 6922.15,
+            "dayLow": 6858.90
+        }
+    ]
+} 
